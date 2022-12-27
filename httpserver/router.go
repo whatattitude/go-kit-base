@@ -16,6 +16,9 @@ func Router(r * gin.Engine){
 
     r.GET("/hello", controller.Hello)
 
+	r.GET("/tree", controller.Tree)
+
+
 
 }
 
