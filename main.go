@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"example-tools/httpserver"
+	"github.com/whatattitude/go-kit-example/httpserver"
 )
 
 func main() {
