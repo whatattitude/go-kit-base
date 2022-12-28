@@ -1,4 +1,4 @@
-module github.com/whatattitude/go-kit-example
+module example-tools
 
 go 1.19
 
