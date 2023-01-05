@@ -33,7 +33,7 @@ do
    echo "serverPort: "$serverPort
   ;;
  t)
-    gin -i -p $port -a $serverPort -b gin-bin --all run
+     gin -i -p $port -a $serverPort -b gin-bin --all run
   ;;
  :)
   echo "option -$OPTARG needs an argument"

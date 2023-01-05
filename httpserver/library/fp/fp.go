@@ -10,7 +10,7 @@ func Fp(a ...any) string {
 	if ok {
 		fmt.Printf("\nfile: %s, line: %d ", file, line)
 		for i := range a {
-			fmt.Print(a[i], "             ")
+			fmt.Print(a[i], "\t")
 
 		}
 
