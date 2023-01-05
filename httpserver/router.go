@@ -1,7 +1,7 @@
 package httpserver
 
 import (
-	"example-tools/httpserver/controller"
+	"github.com/whatattitude/go-kit-example/httpserver/controller"
 
 	"github.com/gin-gonic/gin"
 )
